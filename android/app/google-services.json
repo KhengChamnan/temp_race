@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "236074256386",
+    "project_id": "racing-app-8721e",
+    "storage_bucket": "racing-app-8721e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236074256386:android:5fd8bf2f22ca0a4aa13f1b",
+        "android_client_info": {
+          "package_name": "com.example.race_traking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBen6hV6jJgQ_dKArarInsRryMTAlgrWlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

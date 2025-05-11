@@ -1,0 +1,2 @@
+C:/Users/Lenovo/testing/raceapp7/RACE-TRACKING-APP/android/app/.cxx/Debug/6s14c3dz/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/testing/raceapp7/RACE-TRACKING-APP/android/app/.cxx/Debug/6s14c3dz/x86_64/CMakeFiles/rebuild_cache.dir
